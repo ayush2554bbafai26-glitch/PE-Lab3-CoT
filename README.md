@@ -2,7 +2,7 @@
 
 **A FinTech case study on when a plain chat is enough and when a business needs a system prompt.**
 
-Author: anuj arora · BBA (FinTech), Chitkara Business School · Tool: Claude · November 2026
+Author: Ayush Pandey · BBA (FinTech), Chitkara Business School · Tool: Claude · November 2026
 
 ## The case
 
